@@ -111,6 +111,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, customizable UI and easily editable GIFs, easy to get started.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated gif images or share a web player.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
+- [PowerDirector Essential](https://www.cyberlink.com/products/powerdirector-video-editing-software/features_en_US.html) - **FREE** - for Windows users.
 
 ## Get Feedback
 
